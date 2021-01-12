@@ -6,8 +6,6 @@ _This document is drafted with the rules as follows:_
 - Only one among those within similar level of difficulty will be recorded.
 - Materials with different level of difficulty that need prerequsite or additional learning will be recorded.
 
-Language: [Korean](/README.md) | [English](/README_EN.md)
-
 <br/>
 
 ## Mathematics
